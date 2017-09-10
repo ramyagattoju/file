@@ -1,0 +1,24 @@
+package com.praveen.example;
+
+public class WelcomeUser{
+	
+	 
+		private String usernam;
+	 
+		public String getUsername() {
+			return usernam;
+		}
+	 
+		public void setUsername(String username) {
+			this.usernam = username;
+		}
+	 
+		
+		public String execute() {
+				System.out.println("INSIDE EXECUTE --- Name :" +getUsername());
+			return "SUCCESS";
+	 
+		}
+	
+
+}

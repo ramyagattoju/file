@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private void getSchoolDetails()&apos; from &apos;com.praveen.tutorial.junit.SchoolRecord_UT.test()&apos; to &apos;com.praveen.tutorial.junit.SchoolRecord_UT&apos;&#x0A;- Original project: &apos;DemoJunit&apos;&#x0A;- Method name: &apos;getSchoolDetails&apos;&#x0A;- Destination type: &apos;com.praveen.tutorial.junit.SchoolRecord_UT&apos;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;getSchoolDetails&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;com.praveen.tutorial.junit{SchoolRecord_UT.java" name="getSchoolDetails" replace="false" selection="255 486" stamp="1439522685616" version="1.0" visibility="2"/>
+</session>

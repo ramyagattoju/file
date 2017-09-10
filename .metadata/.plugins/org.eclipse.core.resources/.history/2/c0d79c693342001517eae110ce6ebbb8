@@ -1,0 +1,14 @@
+package com.praveen.tutorial.junit;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class SchoolRecord_UT {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}

@@ -1,0 +1,26 @@
+package com.praveen.tutorial.junit;
+
+import java.util.List;
+
+public class SchoolRecord {
+	
+	
+	public Integer totalStudent(List<School> school){
+		
+		int totalStudent = 0;
+		if(school != null){
+			for(School sc: school){
+				if(sc.getGrade() != "4th"){
+					totalStudent = totalStudent + sc.getNoOfStudents() +1;
+				}else {
+					return 600;
+				}
+			
+		}
+		}
+		
+		
+		return totalStudent;
+	}
+
+}

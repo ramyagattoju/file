@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;iter&apos; from expression &apos;hsetElements.iterator()&apos;&#x0A;- Original project: &apos;DemoCollections&apos;&#x0A;- Variable name: &apos;iter&apos;&#x0A;- Destination method: &apos;com.svk.core.collec.DemoHashSet.main()&apos;&#x0A;- Variable expression: &apos;hsetElements.iterator()&apos;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;iter&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;com.svk.core.collec{DemoHashSet.java" name="iter" replace="true" selection="572 23" stamp="1419616206219" version="1.0"/>
+</session>

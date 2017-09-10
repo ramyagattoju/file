@@ -1,0 +1,21 @@
+INDEX VERSION 1.127
+/Users/praveenkamsali/Documents/workspace/CoreJava/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1396834595.index
+/SimpleWebProj/src
+/Users/praveenkamsali/Documents/workspace/CoreJava/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/59952686.index
+/StrutsExample/src
+/Users/praveenkamsali/Documents/workspace/CoreJava/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3684846189.index
+/StrutsExample/src
+/Users/praveenkamsali/Documents/workspace/CoreJava/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3525949755.index
+/StrutsDemo/src
+/Users/praveenkamsali/Documents/workspace/CoreJava/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2672593727.index
+/SpringMVCWithXmlConfig/src
+/Users/praveenkamsali/Documents/workspace/CoreJava/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3268210827.index
+/strus/src
+/Users/praveenkamsali/Documents/workspace/CoreJava/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1604888408.index
+/SimpleJspProj/src
+/Users/praveenkamsali/Documents/workspace/CoreJava/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3003822216.index
+/SpringMVCWithAnottations/src
+/Users/praveenkamsali/Documents/workspace/CoreJava/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1149243270.index
+/StrutsDemo/src
+/Users/praveenkamsali/Documents/workspace/CoreJava/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1989976843.index
+/StrutsDemo/src

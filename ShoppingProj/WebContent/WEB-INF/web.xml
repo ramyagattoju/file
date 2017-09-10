@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <display-name>ShoppingProj</display-name>
+  
+  <servlet>
+  	<servlet-name>AdminServlet</servlet-name>
+  	<servlet-class>com.svk.AdminServlet</servlet-class>
+  </servlet>
+  
+  <servlet>
+  	<servlet-name>BuyerServlet</servlet-name>
+  	<servlet-class>com.svk.CustomerServlet</servlet-class>
+  </servlet>
+  
+  <servlet>
+  	<servlet-name>SellerServlet</servlet-name>
+  	<servlet-class>com.svk.SellerServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>AdminServlet</servlet-name>
+    <url-pattern>/adminPath</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+  	<servlet-name>BuyerServlet</servlet-name>
+    <url-pattern>/buyerPath</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+  	<servlet-name>SellerServlet</servlet-name>
+    <url-pattern>/sellerPath</url-pattern>
+  </servlet-mapping> 
+ 
+  <filter>
+  	<filter-name>loginFilter</filter-name>
+    <filter-class>com.svk.ShoppingFilter</filter-class>
+  </filter>
+  
+  <filter-mapping>
+  	<filter-name>loginFilter</filter-name>
+  	<url-pattern>/adminPath</url-pattern>
+  </filter-mapping>
+ 
+  <welcome-file-list>
+    <welcome-file>login.html</welcome-file>
+  </welcome-file-list>
+</web-app>

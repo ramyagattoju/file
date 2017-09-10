@@ -1,0 +1,13 @@
+package com.praveen.tutorial.junit;
+
+import java.util.List;
+
+public class SchoolRecord {
+	
+	
+	public int totalStudent(List<School> school){
+		
+		return 0;
+	}
+
+}

@@ -1,0 +1,28 @@
+package com.praveen.tutorial.junit;
+
+import static org.junit.Assert.*;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.junit.Test;
+
+public class SchoolRecord_UT {
+	
+	SchoolRecord sr = new SchoolRecord();
+
+	@Test
+	public void test() {
+		
+		List<School> listOfSchool = new ArrayList<School>();
+		
+		School sc1 = new School();
+		sc1.setGrade("1st");
+		sc1.setNoOfStudents(20);
+		
+		
+		sr.totalStudent(school);
+		
+	}
+
+}

@@ -1,0 +1,30 @@
+package com.svk.struts2;
+
+public class User {
+	
+	private String firstName;
+	private String lastName;
+	private String passCode;
+	
+	
+	public String getFirstName() {
+		return firstName;
+	}
+	public void setFirstName(String firstName) {
+		this.firstName = firstName;
+	}
+	public String getLastName() {
+		return lastName;
+	}
+	public void setLastName(String lastName) {
+		this.lastName = lastName;
+	}
+	public String getPassCode() {
+		return passCode;
+	}
+	public void setPassCode(String passCode) {
+		this.passCode = passCode;
+	}
+	
+
+}
